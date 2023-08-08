@@ -31,6 +31,16 @@ let productBin = {
       quantity: 10,
       createdTime: "2022-02-08T10:35:19Z",
     },
+    {
+      id: 100000065224,
+      storageId: 10000008884,
+      code: "Tgt00-A-A-01",
+      productId: 110000081009,
+      productName: "FloBrand-DressBSPink",
+      productCode: "FBR00040102",
+      quantity: 10,
+      createdTime: "2022-02-08T10:35:19Z",
+    },
   ],
   message: "success",
 };
